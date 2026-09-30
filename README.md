@@ -9,6 +9,8 @@ wavelength.
 
 ## Student-specific parameters
 
+- Student name  → `曹攸然`
+- Student number  → `2023276029`
 - Student number (last 6 digits) → `seed = 276029`
 - Last two digits `N = 29` → `lambda_target = 450 + 10 × (29 mod 31) = 740 nm`
 - `design_seed = seed + 1 = 276030`
