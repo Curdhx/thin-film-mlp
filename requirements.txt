@@ -1,0 +1,6 @@
+# 复现论文全部数值与 8 张图：python main.py
+numpy>=2.0
+matplotlib>=3.8
+
+# 生成论文 Word 文档：python build_paper.py（可选，需课程模板）
+python-docx>=1.1
